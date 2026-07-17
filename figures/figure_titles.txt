@@ -1,0 +1,31 @@
+################################################################################
+# A regional view of lithic raw materials in the Southern Laurentians (Québec) #
+# Olivier Pilette, Karine Taché, and Adrian L. Burke                           #
+# List of Figures                                                              #
+################################################################################
+
+Figure 1. Study area depicting the Lièvre, Petite Nation, and Rouge river hydrographic basins. The Southern Laurentians ecological region is presented in the small map inset.
+
+Figure 2. Dino-Lite USB microscope.
+
+Figure 3. Andrefsky’s morpho-typological classification. Types in italics are not used.
+
+Figure 4. Map of the Lower Ottawa River sites at the mouth of the Petite Nation River. Google Satellite imagery.
+
+Figure 5. Map of the Laurentian Fluvial hinterland sites along the Lièvre and Rouge river. Google satellite imagery. 
+
+Figure 6. Upper Mauricie site cluster in the area of Maison de Pierre and Rouge Lakes. Québec government satellite imagery.
+
+Figure 7. Upper Mauricie site cluster in the areas of Mitchinamécus reservoir, Nemascaching, and Manawan Lakes. Google Satellite imagery.
+
+Figure 8. “Adena” style biface made of Mistassini quartzite, found on the CiFp-27b site.
+
+Figure 9: Proportions of lithic materials along a south-to-north gradient. Materials are identified as follows: mat001 (Kichisipi chert #1), mat002 (Kichisipi chert #2), mat004 (Mistassini quartzite), mat005 (Onondaga chert #1), mat015 (Onondaga chert #2), mat011 (green chert with round inclusions), and mat017 (pyroclastic rock). Site keys for the X-axis are provided in the Supplementary Materials.
+
+Figure 10. (A) Kichisipi chert nucleus from the CbFv-1 site. The chert-rich part is the darker part. (B) Dino-Lite micrograph of a Kichisipi chert artifact from the CcFr-3 site (surface find).
+
+Figure 11. (A) Onondaga chert hafted biface from the CiFp-50 site. (B) Dino-Lite micrograph of an Onondaga chert artifact from the CcFr-1 site (surface find).
+
+Figure 12: (A) Hafted biface in greenish chert from the ChFv-2 site (specimen external to database). (B) Dino-Lite micrograph of a greenish chert artifact from the BjFs-7 site (surface find)
+
+Figure 13: Pyroclastic bifacial tool found on the lake Nominingue shore, at the CcFr-1 site.
